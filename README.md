@@ -1,10 +1,10 @@
-# 🔐 Password Strength Checker
+Password Strength Checker
 
 This is a simple Python project.
 
-## Features
+Features-
 - Checks password length
 - Shows Weak / Medium / Strong
 
-## How to run
+How to run-
 python3 005.py# Password-checker
