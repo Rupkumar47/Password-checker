@@ -1,10 +1,10 @@
 def check_password_strength(password):
     if len(password) < 6:
-        return "Weak ❌"
+        return "Weak"
     elif len(password) < 10:
-        return "Medium ⚠️"
+        return "Medium"
     else:
-        return "Strong ✅"
+        return "Strong"
 
 password = input("Enter your password: ")
 result = check_password_strength(password)
