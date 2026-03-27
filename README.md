@@ -1,4 +1,4 @@
-Password Strength Checker
+# Password Strength Checker--
 
 This is a simple Python project.
 
