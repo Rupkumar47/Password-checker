@@ -10,3 +10,7 @@ How to run-
 python3 005.py
 
 # Password-checker
+
+    Author
+
+Bhaskar Das
