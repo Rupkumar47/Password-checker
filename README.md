@@ -7,4 +7,6 @@ Features-
 - Shows Weak / Medium / Strong
 
 How to run-
-python3 005.py# Password-checker
+python3 005.py
+
+# Password-checker
