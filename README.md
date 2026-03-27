@@ -11,6 +11,6 @@ python3 005.py
 
 # Password-checker
 
-    Author
+# Author
 
 Bhaskar Das
